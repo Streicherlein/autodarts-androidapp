@@ -6,3 +6,5 @@ has problems with:
 - google login (browser is not secure)
 - backbutton doesnt work
 - sometimes the first startup doesnt work, but you can reload by swiping down
+
+programmed in android studio, open source in master branch
